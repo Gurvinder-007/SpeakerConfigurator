@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Gurvinder Nagra/Downloads/Modules 18-25_project files/Section3_Part1_Project/Section3_Project/Content/Spkrs/bp/SpeakerBP.uasset",
+				"C:/Users/Gurvinder Nagra/Downloads/Modules 18-25_project files/Section3_Part1_Project/Section3_Project/Content/Spkrs/bp/SpeakerLogic_BP.uasset",
+				"C:/Users/Gurvinder Nagra/Downloads/Modules 18-25_project files/Section3_Part1_Project/Section3_Project/Content/Levels/Section1_Part1.umap",
+				"C:/Users/Gurvinder Nagra/Downloads/Modules 18-25_project files/Section3_Part1_Project/Section3_Project/Content/HUD/HUD_UI.uasset",
+				"C:/Users/Gurvinder Nagra/Downloads/Modules 18-25_project files/Section3_Part1_Project/Section3_Project/Content/Data/SpeakerData_Structure.uasset",
+				"C:/Users/Gurvinder Nagra/Downloads/Modules 18-25_project files/Section3_Part1_Project/Section3_Project/Content/Data/Accent_Data.uasset",
+				"C:/Users/Gurvinder Nagra/Downloads/Modules 18-25_project files/Section3_Part1_Project/Section3_Project/Content/Data/Cabinette_Data.uasset",
+				"C:/Users/Gurvinder Nagra/Downloads/Modules 18-25_project files/Section3_Part1_Project/Section3_Project/Content/Data/Screen_Data.uasset",
+				"C:/Users/Gurvinder Nagra/Downloads/Modules 18-25_project files/Section3_Part1_Project/Section3_Project/Content/Data/Speaker_Data.uasset"
+			]
+		}
+	]
+}
